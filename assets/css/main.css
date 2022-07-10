@@ -593,7 +593,7 @@ input, select, textarea {
 			-webkit-animation: overlay-hide 1.5s ease-in forwards !important;
 			-ms-animation: overlay-hide 1.5s ease-in forwards !important;
 			animation: overlay-hide 1.5s ease-in forwards !important;
-			background: #1c1d26;
+			background: ##61082a;
 			content: '';
 			display: block;
 			height: 100%;
@@ -2270,7 +2270,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #1c1d26;
+			background: #61082a;
 		}
 
 		select:focus::-ms-value {
@@ -3674,7 +3674,7 @@ input, select, textarea {
 				}
 
 				.spotlight .content {
-					background-color: #1c1d26;
+					background-color: ##61082a;
 					border-width: 0 !important;
 					border-top-width: 0.35em !important;
 					bottom: auto !important;
